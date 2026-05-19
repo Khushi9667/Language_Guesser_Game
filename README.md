@@ -73,7 +73,3 @@ cat sample.txt | node index.js
 - [`franc`](https://www.npmjs.com/package/franc) - Detect the language of text.
 - [`langs`](https://www.npmjs.com/package/langs) - Get language names and local names from ISO 639 codes.
 - [`colors`](https://www.npmjs.com/package/colors) - Get colors in your node.js console.
-
-## License
-
-This project is licensed under the ISC License.
